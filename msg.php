@@ -1,5 +1,6 @@
 <?php
 
+
 $link=mysqli_connect("shareddb-g.hosting.stackcp.net","rushabh","Rushabh@123","sample-32371144");
 	//$link=mysqli_connect("localhost","rushabh","Rushabh@123","signupforusers");	
 	if(mysqli_connect_error()){
